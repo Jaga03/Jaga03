@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="/Asset/profile-banner.png" alt="Jagathish Kumar Banner" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Jagathish Kumar (Jaga03)</h1>
 <p align="center">🚀 Full-Stack Web Developer | MERN Stack | Open Source Contributor</p>
 
