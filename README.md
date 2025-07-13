@@ -46,8 +46,9 @@
 
 ## 📌 Projects
 
-### 🔹 ChatzUp *(in development)*
-> A real-time chat app featuring authentication, live messaging, particle effects, Zustand store, and animated UI built with React, Firebase, and TailwindCSS.
+### 🔹 [💬 ChatzUp (Live Demo)]([https://chatzup.vercel.app/](https://chatzup-app-v1.onrender.com))
+> A real-time chat app with authentication, video/audio calling, live messaging, emoji particles, Zustand store, and a sleek UI.  
+> **Tech**: React, MongoDB, WebRTC, TailwindCSS, Zustand
 
 ### 🔹 [Portfolio Website](https://jagathish-kumar-portfolio.netlify.app/)
 > A clean and responsive developer portfolio built with React to showcase projects, skills, and contact info.
