@@ -46,7 +46,7 @@
 
 ## 📌 Projects
 
-### 🔹 [💬 ChatzUp (Live Demo)]([https://chatzup.vercel.app/](https://chatzup-app-v1.onrender.com))
+### 🔹 [💬 ChatzUp (Live Demo)](https://chatzup-app-v1.onrender.com)
 > A real-time chat app with authentication, video/audio calling, live messaging, emoji particles, Zustand store, and a sleek UI.  
 > **Tech**: React, MongoDB, WebRTC, TailwindCSS, Zustand
 
